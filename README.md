@@ -2,7 +2,7 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,mysql,php,react" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,mysql,mongodb,php,react,python" />
 </p>
 <!--
 **
