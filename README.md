@@ -7,7 +7,6 @@
 ## 💬 Quote of the Day
 [![Readme Quotes](https://vercel.app)](https://github.com/piyushsuthar/github-readme-quotes)
 
-
 <!--
 **
 
