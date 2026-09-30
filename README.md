@@ -5,7 +5,8 @@
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,mysql,mongodb,php,react,laravel,python,c,git,github,vscode,docker,postman" />
 </p>
 ## 💬 Quote of the Day
-[![Readme Quotes](https://vercel.app)](https://github.com/piyushsuthar/github-readme-quotes)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <!--
 **
