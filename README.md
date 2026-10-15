@@ -32,10 +32,6 @@ A platform for managing educational users, trainers, groups, and learning resour
   <img src="https://github-readme-stats.vercel.app/api?username=MohamedMassati&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMassati&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used programming languages" />
-</p>
-
 ---
 
 ## 💬 Quote of the Day
@@ -43,13 +39,6 @@ A platform for managing educational users, trainers, groups, and learning resour
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote of the day" />
 </p>
-
----
-
-## 🤝 Let's Connect
-
-- 💼 LinkedIn: **Add your LinkedIn URL**
-- 📧 Email: **Add your professional email**
 
 ---
 
