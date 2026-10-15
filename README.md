@@ -2,15 +2,6 @@
 
 ### 💻 Full-Stack Web Developer
 
-I build modern web applications with a focus on clean code, responsive interfaces, and practical solutions to real-world problems.
-
-- 🔭 Developing full-stack web applications.
-- 🌱 Improving my skills in web development, API design, and software architecture.
-- 🛠️ Working with Laravel, React, PHP, JavaScript, and databases.
-- 🎯 Focused on writing maintainable code and building useful applications.
-
----
-
 ## 🧰 Tech Stack
 
 <p align="center">
