@@ -1,24 +1,67 @@
-## Welcome
-## Tech Stack
+# Hi there, I'm Mohamed Massati 👋
+
+### 💻 Full-Stack Web Developer
+
+I build modern web applications with a focus on clean code, responsive interfaces, and practical solutions to real-world problems.
+
+- 🔭 Developing full-stack web applications.
+- 🌱 Improving my skills in web development, API design, and software architecture.
+- 🛠️ Working with Laravel, React, PHP, JavaScript, and databases.
+- 🎯 Focused on writing maintainable code and building useful applications.
+
+---
+
+## 🧰 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,mysql,mongodb,php,react,laravel,python,c,git,github,vscode,docker,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,php,laravel,mysql,mongodb,python,c,git,github,vscode,docker,postman" alt="Technologies and development tools" />
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📋 Complaint Management System
+A web application for submitting, tracking, and managing complaints, with role-based access and complaint status tracking.
+
+**Technologies:** Laravel, React, REST API, MySQL
+
+### 🎓 Educational Management Platform
+A platform for managing educational users, trainers, groups, and learning resources.
+
+**Technologies:** Laravel, React, Inertia.js, MySQL
+
+> Add links to your actual repositories above. Only feature projects that you can show and explain.
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedMassati&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMassati&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used programming languages" />
+</p>
+
+---
+
 ## 💬 Quote of the Day
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote of the day" />
+</p>
 
-<!--
-**
+---
 
-Here are some ideas to get you started:
+## 🤝 Let's Connect
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 LinkedIn: **Add your LinkedIn URL**
+- 📧 Email: **Add your professional email**
+
+---
+
+<p align="center">
+  <i>Always learning. Always building. 🚀</i>
+</p>
