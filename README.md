@@ -22,8 +22,6 @@ A platform for managing educational users, trainers, groups, and learning resour
 
 **Technologies:** Laravel, React, Inertia.js, MySQL
 
-> Add links to your actual repositories above. Only feature projects that you can show and explain.
-
 ---
 
 ## 📊 GitHub Activity
